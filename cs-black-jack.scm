@@ -100,7 +100,7 @@
 	  (rest-of-deck (cdddr the-deck)))
 
       ;; (newline) (newline)                                   ;;;<comment out>
-      ;; (display "player-hand: ") (display player-hand)       ;;;<comment out>
+       ;;(display "player-hand: ") (display player-hand)       ;;;<comment out>
       ;; (newline)                                             ;;;<comment out>
       ;; (display "dealer-up-card: ") (display dealer-up-card) ;;;<comment out>
       ;; (newline)                                             ;;;<comment out>
